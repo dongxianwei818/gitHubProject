@@ -244,4 +244,8 @@
    [Vue官方文档](https://vuefe.cn/v2/guide/)
    [webpack](https://doc.webpack-china.org/)
    [VUE-router](https://router.vuejs.org/zh-cn/)
+<<<<<<< HEAD
    [NPM](http://www.runoob.com/nodejs/nodejs-npm.html)
+=======
+   [NPM](http://www.runoob.com/nodejs/nodejs-npm.html)ddddd
+>>>>>>> dxw
